@@ -1,6 +1,6 @@
 title: Lennart Wittchen
 logo: /assets/img/image.png
 description: Student at University of Duisburg-Essen (Energy and Finance, M.Sc.) - Interested in the analysis of energy markets - Data Enthusiastic and Pythonian 
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
