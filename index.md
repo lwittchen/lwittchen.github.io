@@ -12,7 +12,7 @@ Find me on
 
 # Education
 
-Bachelor of Engineering from the Universitiy of Applied Science Dortmund 
+Bachelor of Engineering from the University of Applied Science Dortmund 
 * Degree course: Energiewirtschaft 
 
 Degree sought: Master of Science from University of Duisburg-Essen 
