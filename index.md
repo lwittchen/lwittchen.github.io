@@ -13,6 +13,7 @@ Find me on
 Degree sought: Master of Science from University of Duisburg-Essen 
 - Degree course: Energy and Finance
   - Exchange Semester at the Norwegian School of Economics
+
 Bachelor of Engineering from University of Applied Science Dortmund 
 - Degree course: Energiewirtschaft 
 
