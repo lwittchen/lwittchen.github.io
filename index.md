@@ -10,7 +10,7 @@ Find me on
 
 # Education
 
-_2016/04 - present_ - Degree sought: Energy and Finance (M.Sc.) from University of Duisburg-Essen (Avg. grade: 1.5)
+_2016/04 - present_ - Degree sought: Energy and Finance (M.Sc.) from University of Duisburg-Essen (Avg. grade: 1.5)   
 _2017/08 - 2017/12_ - Exchange Semester at the Norwegian School of Economics 
 
 _2012/09 - 2016/03_ - Energiewirtschaft (B.Eng.) at University of Applied Science Dortmund (Avg. grade: 1.3) 
