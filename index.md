@@ -8,7 +8,7 @@ Find me on
 
 * * * 
 
-# Education
+## Education
 
 _2016/04 - present_ - Degree sought: Energy and Finance (M.Sc.) from University of Duisburg-Essen (Avg. grade: 1.5)   
 _2017/08 - 2017/12_ - Exchange Semester at the Norwegian School of Economics 
@@ -17,7 +17,7 @@ _2012/09 - 2016/03_ - Energiewirtschaft (B.Eng.) at University of Applied Scienc
 
 * * *
 
-# Working Experience
+## Working Experience
 
 _2018/01 - present_ - E.ON Connecting Energies: Internship and working student in the Global Domain Flexibility (VPP)
 
@@ -27,7 +27,7 @@ _2016/09 - 2017/08_ - Chair for Econometrics: (Student) Research Assistant
 
 _2015/04 - 2016/03_ - RWE Deutschland AG: Internship semester and working student in the virtual Power Plant of RWE
 
-# Implemented Projects
+## Implemented Projects
 
 * * *
 
