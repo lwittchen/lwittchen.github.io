@@ -10,13 +10,10 @@ Find me on
 
 # Education
 
-- Degree sought: Master of Science from University of Duisburg-Essen (2016/04 - present) 
-  - Degree course: Energy and Finance (Avg. grade: 1.5)
-  - Including exchange Semester at the Norwegian School of Economics (2017/08 - 2017/12)
+_2016/04 - present_ - Degree sought: Energy and Finance (M.Sc.) from University of Duisburg-Essen (Avg. grade: 1.5)
+_2017/08 - 2017/12_ - Exchange Semester at the Norwegian School of Economics 
 
-
-- Bachelor of Engineering from University of Applied Science Dortmund (2012/09 - 2016/03)
-  - Degree course: Energiewirtschaft / Energy Economics (Avg. grade: 1.3) 
+_2012/09 - 2016/03_ - Energiewirtschaft (B.Eng.) at University of Applied Science Dortmund (Avg. grade: 1.3) 
 
 * * *
 
@@ -35,7 +32,9 @@ _2015/04 - 2016/03_ - RWE Deutschland AG: Internship semester and working studen
 * * *
 
 Term Paper:
-- Forecasting the Nordpool Day-Ahead-Price using an ARX-Model 
-- Modelling the Bid-Ask Spread of the EPEX intraday market with an trade indicator model  
-- Predicting Bankruptcy of norwegian companies with the help of survival analysis
+- Forecasting the Nordpool Day-Ahead-Price using an ARX-Model with reservoir levels as external regressors
+  - [Term Paper and R-Code](https://github.com/lwittchen/ARX_WeeklyPrice_NordPool_R)
+- Modelling the Bid-Ask Spread of the EPEX intraday market with an Trade Indicator Model 
+  - [Term Paper and R-Code](https://github.com/lwittchen/ModellingBidAskSpread_EPEX_R)
+- Predicting Bankruptcy of Norwegian Companies with the help of Survival Analysis (using an Cox-PH Model)
 
