@@ -10,21 +10,24 @@ Find me on
 
 # Education
 
-Degree sought: Master of Science from University of Duisburg-Essen 
-- Degree course: Energy and Finance
-  - Exchange Semester at the Norwegian School of Economics
+- Degree sought: Master of Science from University of Duisburg-Essen (2016/04-present) 
+  - Degree course: Energy and Finance
+  - Avg. grade: 1.5
+- Including exchange Semester at the Norwegian School of Economics (2017/08-2017/12)
 
 
-Bachelor of Engineering from University of Applied Science Dortmund 
-- Degree course: Energiewirtschaft 
+- Bachelor of Engineering from University of Applied Science Dortmund (2012/09-2016/03)
+  - Degree course: Energiewirtschaft (Energy Economics)
+  - Avg. grade: 1.3
 
 * * *
 
 # Working Experience
 
-2018/01 - 2018/03 - Internship in the Global Domain Flexibility (VPP) of E.ON
-2016/08 - 2017/08 - (Student) Research Assistant at the Chair for Energy Economics and the Chair for Econometrics at the University Duisburg-Essen
-2015/04 - 2015/09 - Internship semester in the virtual Power Plant of RWE Deutschland AG
+_2018/01 - present_ - E.ON Connecting Energies: Internship and working student in the Global Domain Flexibility (VPP)
+_2016/08 - 2017/07_ - Chair for Energy Economics: (Student) Research Assistant 
+_2016/09 - 2017/08_ - Chair for Econometrics: (Student) Research Assistant 
+_2015/04 - 2016/03_ - RWE Deutschland AG: Internship semester and working student in the virtual Power Plant of RWE
 
 # Implemented Projects
 
