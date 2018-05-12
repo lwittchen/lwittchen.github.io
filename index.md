@@ -27,9 +27,9 @@ _2016/09 - 2017/08_ - University Duisburg-Essen: (Student) Research Assistant at
 
 _2015/04 - 2016/03_ - RWE Deutschland AG: Internship semester and working student in the virtual Power Plant of RWE
 
-## Implemented Projects
-
 * * *
+
+## Implemented Projects
 
 Term Paper:
 - Forecasting the Nordpool Day-Ahead-Price using an ARX-Model with reservoir levels as external regressors
