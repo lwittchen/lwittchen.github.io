@@ -4,13 +4,13 @@ layout: default
 
 # About Me
 Find me on 
-[LinkedIn](https://www.linkedin.com/in/lennart-wittchen-862674129/)|[DataCamp](https://www.datacamp.com/profile/lennartwittchen-fcf614a6-5fa1-4734-94de-73e0a480e7f8)|[Kaggle](to add)
+[LinkedIn](https://www.linkedin.com/in/lennart-wittchen-862674129/)|[DataCamp](https://www.datacamp.com/profile/lennartwittchen-fcf614a6-5fa1-4734-94de-73e0a480e7f8)|[Kaggle](to add)|[Hackerrank](https://www.hackerrank.com/lwittchen)
 
 * * * 
 
 ## Education
 
-_2016/04 - present_ - Degree sought: Energy and Finance (M.Sc.) from University of Duisburg-Essen  
+_2016/04 - present_ - Energy and Finance (M.Sc.) from University of Duisburg-Essen  
 _2017/08 - 2017/12_ - Exchange Semester at the Norwegian School of Economics 
 
 _2012/09 - 2016/03_ - Energiewirtschaft (B.Eng.) at University of Applied Science Dortmund 
