@@ -20,6 +20,8 @@ _2012/09 - 2016/03_ - Energiewirtschaft (B.Eng.) at University of Applied Scienc
 
 ## Work Experience
 
+_2018/06 -  present - Vattenfall Energy Trading: Junior Trading Analyst
+
 _2018/01 - 2018/06_ - E.ON Connecting Energies: Internship and working student in the Global Domain Flexibility (VPP)
 
 _2016/08 - 2017/07_ - University Duisburg-Essen: (Student) Research Assistant at the Chair for Energy Economics
